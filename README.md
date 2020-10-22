@@ -8,3 +8,5 @@ My personal learning path for AI &amp; ML
 |4|`IBM Applied AI professional certificate`|Pending|https://www.coursera.org/professional-certificates/applied-artifical-intelligence-ibm-watson-ai
 |5|`Deep learning AI Tensorflow developer`|Pending|https://www.coursera.org/professional-certificates/tensorflow-in-practice
 |6|`DataFolkz  AI professional certtificate`|WIP|
+|7|`Intro to Tensorflow`|Completed|https://classroom.udacity.com/courses/ud187
+|8|`Intro to Tensorflow lite`|Pending|https://www.udacity.com/course/intro-to-tensorflow-lite--ud190
